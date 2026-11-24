@@ -1,0 +1,4 @@
+CREATE DATABASE IF NOT EXISTS subtrack_db;
+CREATE DATABASE IF NOT EXISTS subtrack_db;
+USE subtrack_db;
+SELECT DATABASE();
